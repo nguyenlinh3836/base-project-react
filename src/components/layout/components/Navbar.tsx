@@ -47,7 +47,6 @@ export default function Navbar() {
                                         <a href="/contact">Contact</a>
                                     </Menu.Item>
                                 </Menu>
-
                             </div>
                         </div>)
                     }
